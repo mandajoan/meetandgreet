@@ -9,20 +9,20 @@
 }
 
 #letter a:hover {
-  color:#9b7c00;
+  color:black;
 }
 
 #form {
   margin-bottom: 50px;
-  font-family: "Open Sans", Arial, sans-serif;
+  font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 }
 #letter {
   display: none;
-  background-color: #3d5a91;
+  background-color: #aa3b64;
   color: white;
-  font-family: "Open Sans", Arial, sans-serif;
+  font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
   width: 800px;
-  box-shadow: 8px 8px 5px #9b7c00;
+  box-shadow: 10px 8px 8px #666666;
 }
 
 #letter:target{
